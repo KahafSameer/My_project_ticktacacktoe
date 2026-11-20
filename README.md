@@ -15,4 +15,3 @@ cd My_project_ticktacacktoe
 python main.py
 ```
 
-> The repo also contains a committed `venv/` folder. It isn't needed and can be removed and added to `.gitignore`.
